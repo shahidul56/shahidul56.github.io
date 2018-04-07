@@ -1,0 +1,43 @@
+<section class="section" data-anchor="section-7" id="6">
+				<div class="container container--height container--padding-15">
+					<div class="row js-content justify-content-center">
+						<div class="col-lg-12">
+							<div class="row justify-content-center row--how-it-works">
+								<div class="main-description main-description--visibility main-description--center col-xs-12 col-lg-4">
+									<div><h1>Choose Your Plan</h1>
+										<p>Choose from one of our options below and start using app right now.</p></div>
+								</div>
+							</div>
+							<div class="row row--no-margin justify-content-center price__flex">
+								<article class="price__flex col-lg-4">
+									<div class="price__item"><h3 class="desc-text h3-small">Standart</h3>
+										<h1 class="theme-text h1-small">free</h1>
+										<p class="desc-text desc-text--price">The best way to enjoy the benefits of our service for the
+											first time. By choosing this plan, you will get the <span
+												class="desc-text desc-text--price desc-text--bold">app without any premium features</span> at
+											all, but it will be fully usefull.</p><a href="#"
+										                                           class="col-9 col-sm-5 col-lg-7 btn btn--theme btn--price">free
+											download</a></div>
+								</article>
+								<article class="price__flex col-lg-4">
+									<div class="price__item"><h3 class="desc-text h3-small">Optimal</h3>
+										<h1 class="theme-text h1-small">$2.00 USD</h1>
+										<p class="desc-text desc-text--price">Excellent option to get all must-have features together in
+											just seconds. By choosing this plan, you will get <b>ability to use bookmarks</b> and <b>event
+												notificators.</b></p><a href="#" class="col-9 col-sm-5 col-lg-7 btn btn--theme btn--price">buy
+											for $2</a></div>
+								</article>
+								<article class="price__flex col-lg-4">
+									<div class="price__item"><h3 class="desc-text h3-small">Premium</h3>
+										<h1 class="theme-text h1-small">$4.00 USD</h1>
+										<p class="desc-text desc-text--price">Super useful options for our clientele without any stupid
+											limits. By choosing this plan, you will get all <b>features of optimal plan advanced search</b>
+											and <b>paid articles.</b></p><a href="#"
+										                                  class="col-9 col-sm-5 col-lg-7 btn btn--theme btn--price">buy for
+											$4</a></div>
+								</article>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
