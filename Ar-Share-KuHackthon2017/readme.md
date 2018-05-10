@@ -1,5 +1,5 @@
 
-===================================
+
 Project structure:
 ===================================
 
@@ -7,7 +7,7 @@ Project structure:
 ![structure](https://user-images.githubusercontent.com/11449967/39885555-b2085e4a-54ae-11e8-836a-5e7081045980.PNG)
 
 
-===================
+
 1.First go to  :
 ===========================
 Download qr code scanner than scane the code to got o the link
