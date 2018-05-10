@@ -14,11 +14,15 @@ Google Lanched same core facility app this 10th may in GOOGLE IO2018:https://www
 
 1.First go to  :
 ===========================
-Download qr code scanner than scane the code to got o the link
+Download qr code scanner than scan the code to go to the link (from your phone)
+
+or you can  go to the given site by typing the site name in mobile gooogle chrome borowser
+
+https://shahidul56.github.io/Ar-Share-KuHackthon2017/ (from your phone) 
 
 ![img_20180510_234956](https://user-images.githubusercontent.com/11449967/39885059-7f7937ca-54ad-11e8-975e-3eaf8c3bd800.jpg)
 
-https://shahidul56.github.io/Ar-Share-KuHackthon2017/
+
 
 ![img_20180510_235025](https://user-images.githubusercontent.com/11449967/39885054-7ed8c70e-54ad-11e8-9dcd-5326bccba11c.jpg)
 
